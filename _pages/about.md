@@ -12,7 +12,12 @@ My name is James Jisu Han, and I am currently a management consultant living in 
 
 Research Interests
 ======
-My current research and academic interests span multiple disciplines, including biology, statistics, computer science, chemistry, and physics. 
+My current research and academic interests span multiple disciplines, including biology, statistics, computer science, chemistry, and physics. Some topics of interest to me are:
+
+* Applications of machine learning in protein folding, interaction simulation, and design
+* Fundamental advances in machine learning models and architectures
+* Classical biochemical, statistical, and biophysical apporahces to protein dynamics
+
 
 Hobbies
 ======
@@ -24,6 +29,5 @@ Below are some of my primary hobbies:
 * Skiing
 
 Bio
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
+======
+I was born in Calgary, AB in 2000 and grew up in various cities, including Chicago, IL, Ann Arbor, MI, San Diego, CA, and Temecula, CA. I entered Yale College for my undergrad in 2018, and took two terms off during COVID (Fall '20 and Spring '21) to intern for a tech / ML consulting firm in Seoul, SK. After graduation, I joined Bain & Co., where I also worked as a summer Associate Consultant Intern in 2022.
