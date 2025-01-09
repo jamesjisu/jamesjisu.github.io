@@ -13,13 +13,13 @@ main:
 #    url: /portfolio/
 #        
   - title: "Photography"
-    url: /travel-archive/
+    url: /photo-archive/
     
   - title: "Travel"
     url: /travel-archive/
         
-  - title: "Travel"
-    url: /travel-archive/
+  - title: "FItness"
+    url: /fitness-archive/
     
 #  - title: "CV"
 #    url: /cv/
