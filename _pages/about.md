@@ -30,4 +30,4 @@ Below are some of my primary hobbies:
 
 Bio
 ======
-I was born in Calgary, AB in 2000 and grew up in various cities, including Chicago, IL, Ann Arbor, MI, San Diego, CA, and Temecula, CA. I entered Yale College for my undergrad in 2018, and took two terms off during COVID (Fall '20 and Spring '21) to intern for a tech / ML consulting firm in Seoul, SK. After graduation, I joined Bain & Co., where I also worked as a summer Associate Consultant Intern in 2022.
+I was born in Calgary, AB in 2000 and grew up in various cities, including Chicago, IL, Ann Arbor, MI, San Diego, CA, and Temecula, CA. I entered Yale College for my undergrad in 2018, and took two terms off during COVID (Fall '20 and Spring '21) to intern for a tech / ML consulting firm in Seoul, SK. I completed an internship at Bain & Co. as a summer Associate Consultant Intern and joined the firm full-time as an Associate Consultant after graduation.
