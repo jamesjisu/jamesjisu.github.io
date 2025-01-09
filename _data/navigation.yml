@@ -12,6 +12,12 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
 #        
+  - title: "Photography"
+    url: /travel-archive/
+    
+  - title: "Travel"
+    url: /travel-archive/
+        
   - title: "Travel"
     url: /travel-archive/
     
