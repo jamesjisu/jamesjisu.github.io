@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My nanme is James Jisu Han, and I am a Korean Canadian American currently living in New York City. I received a B.S. in Statistics & Data Science and Molecular Biophysics and Biochemistry from Yale University, and I am currently employed as an Associate Consultant at Bain and Company. 
+My name is James Jisu Han, and I am a Korean Canadian American currently living in New York City. I received a B.S. in Statistics & Data Science and Molecular Biophysics and Biochemistry from Yale University, and I am currently employed as an Associate Consultant at Bain and Company. 
 
 A data-driven personal website
 ======
